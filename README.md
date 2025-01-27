@@ -1,4 +1,4 @@
-# markdown
+# Markdown
 
 ### Heading
 ```
@@ -105,6 +105,16 @@ That is so funny LOL :joy:
 ```
 
 That is so funny LOL :joy:
+
+| Emoji | Code |
+| ----------- | ----------- |
+| :confused: | `:confused:` |
+| :sunglasses: | `:sunglasses:` | 
+| :star:| `:star:` |
+| :grey_question: | `:grey_question:` | 
+| :smiley: | `:smiley:` |
+| :question: | `:question:` | 
+
 
 ---
 
